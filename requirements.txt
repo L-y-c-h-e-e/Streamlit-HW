@@ -5,5 +5,3 @@ dask
 plotly
 requests
 aiohttp
-datatime
-asyncio
