@@ -55,8 +55,9 @@ def data_analysis_time(df):
     st.write(f"Разница во времени: {single_time - parallel_time:.2f} секунд\n")
 
 
-@st.cache_data
+
 #Функция для создания больших данных
+@st.cache_data
 def create_test_df(size):
     cities = [
         "New York", "London", "Paris", "Tokyo", "Moscow", "Sydney", "Berlin", "Beijing", "Dubai", "Rio de Janeiro",
