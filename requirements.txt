@@ -5,6 +5,5 @@ dask
 plotly
 requests
 aiohttp
-polars
-time
 datatime 
+asyncio
