@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-dask
-plotly
-requests
-aiohttp
-datatime 
-asyncio
