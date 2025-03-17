@@ -11,7 +11,6 @@ import streamlit as st
 
 
 #Функция для анализа данных и добавления новых данных в DataFrame
-@st.cache_data
 def data_analysis(df):
 
     #Вычисляемм скользящее среднее и std(для дальнейших вычислений)
